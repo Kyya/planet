@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Kyya&#39;s Land</title>
+    <subtitle>Kyya 社区星球</subtitle>
+    <link href="https://planet.kiko.space/atom.xml" rel="self" type="application/atom+xml" />
+    <link href="https://planet.kiko.space"/>
+    <updated>2019-07-07T05:01:00+00:00</updated>
+    <id>https://planet.kiko.space</id>
+    
+    <author>
+        <name>Kyya</name>
+        <email>favoursmoe@gmail.com</email>
+    </author>
+    
+    <generator uri="https://github.com/phoenixlzx/planet.js">Planet.js</generator>
+    
+    <entry>
+        <title>致五年 E3 青春：AMD YES! ITX 装机作业</title>
+        <link href="https://www.h404bi.com/blog/2019/07/amd-itx-diy-specs-for-the-next-5-years"/>
+        <id>https://www.h404bi.com/blog/2019/07/amd-itx-diy-specs-for-the-next-5-years</id>
+        
+        <author>
+            <name>h404bi</name>
+        </author>
+        
+        <published>2019-07-07T05:01:00+00:00</published>
+        <updated>2019-07-07T05:01:00+00:00</updated>
+        
+        <content type="html"><![CDATA[<img src="https://www.h404bi.com/uploads/2019/07/20190705001.jpg" />头图：U1-PLUS 与 MacBook Pro 13'
+<p>哈哈哈，这次文章的标题有点假文艺。不过确实说的也是事实，在完成了这次整个平台的装机升级后，陪伴了我 5 年多的至强 E3-1230 v2 就被替下了，为性价比正式从牙膏厂跳到了按摩店。大学那年第一次 DIY 装机就选择了当时所谓的“一代神 U”、“卡吧标配”的 E3v2，从此开启了我的 DIY 装机“职业生涯” —— 哈哈说笑，也就可算是懂得了倒腾配置装机云云。</p>
+
+<img src="https://www.h404bi.com/uploads/2019/07/20190705003.jpg" />当年炙热的哥斯达黎加产 E3v2（摄于 2013 年 7 月）
+<p>按时间来粗算也算是有五、六年的装机经验了，虽然，总共的装机量两手十指都能数得清，不过“客户群”也算是蛮广的 —— 父母、亲戚、同学、朋友都有做过我的“甲方”。虽然嘴里说了“
+绝不无偿帮忙”，但是实际上顶多是一顿饭就被打发了，算是补偿下我为配置做功课所花费的时间与精力，所以并没有成为所谓的“职业”赚钱手段。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705004.jpg" />易迅网及当年的闪电送你可知道？（摄于 2014 年 2 月）
+<hr />
+<p>说回主题，这次进行整个新平台的 DIY 其实蓄谋已久。从毕业后算起搬过的几次家、蜗居于城中村狭小的房子中、多年无保养主机积灰风扇噪音大、期间为亲朋好友配置的都是中小型机箱等等因素，或多或少地让我对手里的 ATX 中塔机箱开始有些拒意。当年觉得酷而选择了 ATX
+大板对今日要走小而美路线的想法造成了麻烦，要换只能整体换。心想那时给 E3v2 的指标是
+“战五年”，也确实达到了。于是趁着这个正值固态与内存双双杀跌的 618，干脆为下一个五年攒机。这一次的需求是 —— <strong>压预算、尽量小、性能够、有颜值、要安静</strong>。</p>
+<p>其实最开始写配置单的时候，并没有直接从 ITX 入手，而是先写了 M-ATX 平台。因为此前的几次代装机都是 M-ATX 的配置，没尝试过 ITX，担心会翻车。M-ATX 比 ATX 小不少，感觉已经满足我“主观”所认为的小尺寸了，并且在平民预算下 M-ATX 写起来会比 ITX 容易很多。另一方面，由于去年升级了显卡，想把升级不久的长显卡保留下来。于是一开始选的是能够装下
+260mm 长显卡的乔思伯 U3。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705005.jpg" />最左侧是最初写的 M-ATX，最右红圈是最终配置单
+<p>还没到 618，M-ATX 的一些配置已经放购物车里等候了。在不断做功课的过程中，缺乏直观感受仅凭三维参数看机箱大小的我，又看上了仅能放下 ITX 主板但依然能装下长显卡的，乔思伯另一款更小的机箱 UMX1-PLUS。在更换机箱基础后，迫于机箱尺寸限制，我写出了上图中间的第一份 ITX 配置单，对比原来的 M-ATX 配置单除了主板更换为 ITX 小板外，基本没做太多的变化。UMX1-PLUS 对 CPU 散热有限高，彼时散热器还在考虑，甚至暂定了海盗船的 H60 一体水冷。不过我对水冷始终保持着一个谨慎的态度，再加上我似乎对顶部带风扇镂空设计的机箱具有一定的抗拒感（事实上确实是，原因是 E3v2 那一套的机箱顶部双风扇给我带来了不少的灰尘），我开始继续寻找更符合我口味的搭配。</p>
+<p>第一轮的 618 活动在 6 月 1 日进行，但当天我恰巧不在国内。受时区、网络等因素影响，我未能抢到早早预约的海韵旗舰金款 550W 电源，拜托的朋友也没抢到，499 元的神价格果然很是抢手。回国后我开始在闲鱼上查看是否会有其他人抢到后适当溢价转手，心想 1 元 1 瓦尚在接受范围内。结果当然是有的了。</p>
+<p>但带着“不想要顶部风扇”的念头，我还在选机箱。对比 UMX1-PLUS 整体外观我其实更喜欢 U3
+方方正正的样子而且没有顶部开口，只是 U3 更大。随后我便发现了同属 U 系列的 U1-PLUS
+—— 无顶部风扇开口、整体方正、整体更加小巧。这几个点，都非常满足我的口味，而且也拥有一个我此前一直只作为“可选项”的玻璃侧透。虽然我不喜欢光污染，但侧透还是蛮喜欢的。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705006.jpg" />三机箱外观空间对比：20升/16升/12升
+<p>但是 U1-PLUS 的限制更多 —— 只支持 SFX 电源、显卡限长 190mm、只提供 2.5 寸硬盘位。这意味着，如果要选择 U1-PLUS 的话，配置单就得大改，做出一份“真・意味”的 ITX 配置。电源得换、显卡得换、硬盘得换… 于是才有了最后的「烧」单。</p>
+<p>幸运的是，在闲鱼上我找到了一位转手 U1-PLUS 的同城玩家，这位卖家出售机箱的同时，还附带出两个猫扇以及比较难找的双风扇支架。而且还愿意拆卖其它配件，部分配件正巧在我改了好几遍的配置单里。在尽力压预算的意识下我计算了价格后，就在那位玩家那里入手自提了部分配件，也就确定了最终配置并实施攒机。于 618 当天分别在京东、淘宝入手的其它配件也很快陆续到手。回想起 2013 年的攒机，等齐所有配件花了 20 多天，真的对国内的物流系统发展表示钦佩。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705002.jpg" />新平台配置全家福
+<p>从全家福上咋一看，应该看不出来这一整套下来其实里面有接近一半的配件是二手配件吧。毕竟闲鱼卖家转手时，一些配件还挺新的，没使用多久。</p>
+<hr />
+<h2>配件展示</h2>
+<p>AMD YES! 真不是一句口号这么简单，Intel 不只是挤牙膏，还因为几次的 CPU 漏洞问题，硬是把挤出来的牙膏给“吸回去”了哈哈，市场份额拱手让给 AMD。不过这个我觉得也没什么好争论的，用户都是用脚投票的，看性价比呗。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705007.jpg" />AMD 锐龙 R5 2600
+<p>虽然新一代锐龙快出了，本应该可以等等。但看了看预算，就目前还是选二代便宜。从 R5 开始选，考虑到有独显于是就选了没有核显的 R5 2600，性能上已经比 E3v2 高很多，基本满足我的实际需求。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705008.jpg" />拍摄条件不佳，将就出图哈
+<img src="https://www.h404bi.com/uploads/2019/07/20190705009.jpg" />盒装原装散热
+<p>如果为了省钱的话，按道理买没有散热的散片应该会省一些。但 618 买板 U 套算下来也比较划算就直接板 U 一套入手。虽然说买了额外的散热器，原装的甚至没拆开看，有点浪费。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705010.jpg" />处理器部分小盒
+<img src="https://www.h404bi.com/uploads/2019/07/20190705011.jpg" />处理器本体
+<p>第一次拿着 AMD 的针脚 CPU 还是格外小心，很担心稍不注意弄弯针脚。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705012.jpg" />主板：华硕 ROG STRIX B450-I GAMING
+<p>板 U 套选了华硕的 ROG B450-I 小板。B450 芯片组 ITX 小板的可选择余地真的不多，而且小板价格普遍都贵。最初选的是比较多人推的微星 B450I GAMING PLUS AC，优势是同价位最强供电组。后面看到华硕这块板搭载了 2 个 M.2 插槽，除了常规的主板背部一个外，板前面还有一个，而且前面这个有散热马甲（就是下图主板中“败家之眼”那个位置）！</p>
+<p>做功课时我了解到有人反馈 U1-PLUS 由于小闷罐属性，NVMe 固态硬盘插主板背部 M.2 插槽的话，硬盘温度会比较高，而我选择 Nvme 硬盘又是“热得比较有名”的西数 SN750 黑盘。考虑后便选了华硕的板。另一个小点是，华硕这块板的板载网卡是 Intel I211，微星的板载网卡是 Realtek 8111H。不过就日常使用而言，二者大概没什么区别的。也就可能在满载情况下，
+Intel 的网卡会省资源一点。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705013.jpg" />主板及附带零配件
+<p>配件不少，有几个没用上也没搞清楚用途。家里有线网线，板载 WIFI 暂时也没用上。硬盘选了标配西数 SN750，500G 容量完全满足我平时使用需求，这下可以把 Steam 下载的游戏毫不犹豫地装到系统盘上了（以前喜欢对硬盘分区的我，现在已经完全习惯一个 256G/500G 的盘整个做系统盘用了），《无人深坑》走起！</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705014.jpg" />西数 SN750 黑盘
+<img src="https://www.h404bi.com/uploads/2019/07/20190705015.jpg" />只有本体加一纸说明书
+<p>第一次用上 NVMe 的盘，真的很小巧一个。要将 NVMe 固态安装到华硕这块 B450I 板前面的
+M.2 插槽上需要先取下主板的散热马甲。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705016.jpg" />解除散热马甲左右 2 颗固定螺丝
+<img src="https://www.h404bi.com/uploads/2019/07/20190705017.jpg" />解除固定 NVMe 固态的小螺丝
+<img src="https://www.h404bi.com/uploads/2019/07/20190705018.jpg" />
+<img src="https://www.h404bi.com/uploads/2019/07/20190705019.jpg" />插入 NVMe 硬盘并用螺丝固定
+<img src="https://www.h404bi.com/uploads/2019/07/20190705020.jpg" />
+<p>可以看到，华硕这块板前面的 M.2 插槽是“架空在二层 PCB 板上”的。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705021.jpg" />散热马甲底部导热材料
+<img src="https://www.h404bi.com/uploads/2019/07/20190705022.jpg" />移除贴纸
+<p>散热马甲底部导热材料的贴纸要撕掉（见到不断重复的 REMOVE 字样了吧）。另外在这里安装
+NVMe 硬盘时，硬盘的铭牌贴纸也要撕掉，这样导热材料才能直接接触到硬盘芯片。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705023.jpg" />
+<p>华硕的这块板虽说有两个 M.2 插槽，但是它这个是有局限的。因为如果使用的是 APU，板背面的 M.2 插槽通道会因为 APU 的原因而无法使用。所以不太推荐 APU 搭配这块主板。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705024.jpg" />KLEVV BOLT X
+<p>所有带灯的内存条都被我 PASS 掉了哈哈。AMD 平台见不少都推荐科赋这个条，性价比也不错。两根 DDR4 3200 8G 插满主板内存插槽，按预设 3200 频率使用已经满足我使用需求了。这没灯的马甲也符合我不想要光污染的口味。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705025.jpg" />ITX 主板就一个手掌张开那么大
+<img src="https://www.h404bi.com/uploads/2019/07/20190705026.jpg" />电源
+<p>其实 SFX 可选的电源有不少。配的是海盗船 SF450 的主要原因是，我拿到的这个电源是二手的哈哈。是出机箱那位卖家一同转给我的电源，还送了我一组配给 U1-PLUS 的定制线，我到手就能用。不过没拍什么照，电源部分就只有这张图，后面实际装机时可以看到细节。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705030.jpg" />U1-PLUS 本体
+<p>前面说了机箱是二手的，跟同城卖家约定自提到手。整体还很新，大概也就低频使用了几个月的样子。U1-PLUS 真的很小了，直观点的高度，只有两个 iPhoneSE 的高度多一点。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705031.jpg" />机箱与 iPhone SE
+<p>其实隐约可以看到机箱背部已经固定了两个 8cm 的猫扇。因为我要机箱的同时也要了这 2 个机箱风扇，卖家就没拆下直接整体移交，风扇包装盒则另外塞进了机箱的箱子里。还有，电源挡板上的败家国度贴纸被我保留了，因为刚好我买的主板就是 ROG…</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705027.jpg" />CPU 散热器
+<p>配合两个猫扇，最后选的 CPU 散热器也是猫头鹰，这样整体下来搭配比较和谐的同时，噪音控制应该比较好（后面实际测试也确实蛮安静的），毕竟是高端风冷了。U9S 的高度为 12.5cm，在 U1-PLUS 13cm 的 CPU 散热器限高范围内。小机箱本身散热风道就不会太好，U1-PLUS 这种开口少的更甚。既然不喜欢光污染，则不选涡轮、下压散热而选小塔式加强下机箱内整体风道也就理所当然了。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705028.jpg" />内层的纸盒包装非常结实…
+<p>不是开玩笑，猫头鹰家的包装真的很用心的…</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705029.jpg" />所有零配件一览
+<p>扣具与安装说明书都很全，每类扣具有单独的安装说明。自带一管猫头鹰硅脂，无需额外购买。主板原配的扣具只适用于原装的 AMD 散热器，使用第三方散热器需要更换扣具。卸下原装扣具，装上猫头鹰提供的 AM4 扣具即可。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705032.jpg" />板载原装扣具
+<img src="https://www.h404bi.com/uploads/2019/07/20190705033.jpg" />更换扣具后
+<p>最后两个配件一个是 HDD，一个是显卡。冷存储方面我个人并没有非常大的需求，五年时间我的西数 1T 蓝盘至今都没有存满过。就存了一些老动画和音乐，用网盘比较多的我，本地冷存储需求确实不太大（不过我倒希望有个 NAS，感觉相当于是个人网盘，更方便）。因为机箱原生只有 2.5 寸硬盘位，只好再新配一个 2.5 寸的机械硬盘，选的是东芝的 2T 笔记本盘。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705034.jpg" />冷数据盘
+<p>显卡方面其实完全是一个额外的花费。前面说到我早前升级过显卡，实际是从 HD7770 升级到了 GTX 1060，玩游戏确实还是 N 卡优势，所以升级平台时是有想保留显卡的意思的。但是选择了 U1-PLUS 意味着得换短卡，本着不能降性能的观念，只好重新配一个 GTX 1060 或以上的短卡。迫于压预算，最后还是在 GTX 1060 里选，看来看去只有微星和 EVGA 两款短卡比较合适，就入手了个二手的 EVGA GTX 1060。后面到手才意识到买贵了，而且满载时的风扇噪音非常感人… 钱包血量不足，只能先将就着，等 GTX 1660 降价再考虑。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705035.jpg" />EVGA GTX 1060 短卡
+<hr />
+<h2>装机部分</h2>
+<p>第一次挑战 ITX 装机，就选了个 12 升无背板的小闷罐机箱。一向注意走线的我，也是感受到了走线压力。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705036.jpg" />优先布线
+<p>机箱背部风扇拆掉，电源挡板拆掉，硬盘位拆掉。先装好电源，插上要用到的模组线，大致摆好线的位置，放上主板估算一下。走起来没问题后，主板上螺丝固定。这里建议先把内存条拆下，内存插槽旁边是跳线，内存插上再插跳线会不太方便。机箱的前置 I/O 线材粗又黑被诟病就不多说了，来回绕两圈，能藏则藏吧…</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705037.jpg" />看起来还行吧
+<p>主板固定后，供电插上，跳线插上，内存插上，SATA 硬盘线插上准备好。可拆卸硬盘位拆下装好硬盘。装回到机箱中，接上线材。插上显卡，接上供电。这里有个细节，显卡供电线是黑色的，因为卖家自己用的是 8-pin 供电的显卡所以配的是 8-pin 的定制线，不适用于 EVGA
+的 6-pin 供电，我只好用原装模组线进行混搭… 显卡安装好后，才安装背部双风扇。如果这一步顺序调换的话，显卡会非常非常难安装。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705038.jpg" />可拆卸硬盘位
+<p>原本准备也把旧机器中的 256G SSD 装上的，但因为彼时那块盘还在服役中，只好等后面再处理，也是准备不够充分。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705039.jpg" />CPU 散热器留到最后才安装
+<img src="https://www.h404bi.com/uploads/2019/07/20190705040.jpg" />这里我把电源挡板装反了，哈哈
+<p>其实即使没有那些贴纸，电源挡板也还算容易区分方向的，不知道我咋就装反了。挡板装上，机箱立起来后，前置 I/O 以及 SATA 硬盘线那一部分妥协的走线其实已经不太能看得出来了，所以整体的走线我还是比较满意的。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705041.jpg" />金属制猫头鹰铭牌
+<p>要注意的是，CPU 散热器的风扇并不是跟着散热塔一起安装的。需要先拆下风扇，安装好散热塔后，最后才装上风扇，接好风扇供电。这个在说明书里有具体的说明。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705042.jpg" />很是小巧
+<img src="https://www.h404bi.com/uploads/2019/07/20190705043.jpg" />新旧平台大小对比
+<hr />
+<h2>测试部分</h2>
+<p>机器第一次组好装好系统后，才发现迁移数据又得把硬盘架拆下安装硬盘。没有在旧机器上事先迁移好数据造成了多余的拆机环节，这是这次整个装机工作中最欠缺准备的地方。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705044.jpg" />迁移数据
+<p>新装好 Windows 系统首次进入桌面时，会弹出一个华硕主板的 OEM 功能提示，询问是否安装华硕 ROG 的 ASUS Grid 软件。虽然这个软件尚处于 Beta 版阶段，但这个软件还挺方便的，建议安装。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705045.jpg" />习惯了使用英文版系统
+<img src="https://www.h404bi.com/uploads/2019/07/20190705046.jpg" />
+<img src="https://www.h404bi.com/uploads/2019/07/20190705047.jpg" />ASUS Grid 里有推荐驱动安装
+<h3>温度与稳定性</h3>
+<p>首先是显卡，因为显卡不做任何超频调整打算，所以简单直接测满载稳定性即可。FurMark 单烤 15 分钟温度稳定在 80 度上下，基本达到要求。满载状态下，风扇转速去到 3400+，这转速都要到全速极限了，所以声音非常非常大。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705048.jpg" />FurMark 单烤
+<p>然后是处理器。开始时因为功课做得不足，没有做任何调整直接开了双烤。15 分钟下来居然勉强过关了，但是温度惨不忍睹。室温 30 度左右，CPU 竟然去到了 90 度（峰值 97 度），这还是在自动降频到 3.6GHz 的情况下，我甚至一度怀疑我硅脂没涂好。默认状态下电压实在吃得太可怕了… 各个风扇转速基本跑满…</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705049.jpg" />全默认极限双烤
+<p>以上都是在机箱侧板装上的情况下全默认测出来的，所以也算是整个机器勉强通过了温度与稳定性测试。下面得考虑怎样让温度降下来的同时，保持一定的性能。</p>
+<h3>性能与超频调整</h3>
+<p>内存部分比较好处理，于是先做了调整。直接在 BIOS 里打开 D.O.C.P 给的预设即可调整频率到 3200，时序 16-18-18-38。求稳的话，直接这样就可以了。虽然都说 ITX 板子上内存挺能超，但我在这方面零经验，时序什么的没做过功课，就先将就用着了。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705050.jpg" />默认 2666
+<img src="https://www.h404bi.com/uploads/2019/07/20190705051.jpg" />预设 3200
+<p>数据对比上还是有明显的提升的，实际感受就难以表述了。</p>
+<p>显卡不做调整，剩下就是处理器。因为前面感受到了默认状态下可怕的极限温度，所以调整时的核心要素是 —— <strong>降压定频</strong>。胆大的我直接在 BIOS 里操作了起来。关闭了自动睿频，改成手动设置固定外频及倍频，同时手动指定了固定电压。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705063.jpg" />ASUS UEFI BIOS
+<p>开始的几次直接在 BIOS 里调整，发现实在是有点麻烦，每调整一次就得重启进 BIOS。后面根据网上的其它教程，下载了 AMD 的 RYZEN MASTER 进行软超。用软件比较方便测试调整，当稳定后可以再进 BIOS 设置为对应的参数。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705052.jpg" />超频 4GHz 测试
+<p>经过软超以及 BIOS 设置多次尝试，最终得出了两套适用于日常使用的参数。其中一套是定频在 40.25×100=4GHz，同时提供 1.2V 的 CPU 供电（CPU-Z 显示满载核心供电为 1.232V）。这套参数在打开侧板的情况下，5 分钟测试全核满 4GHz 温度不到 70 度。第二套参数是定频在 39×100=3.9GHz，同时提供 1.187V 的 CPU 供电（软件显示满载核心供电为 1.221V）。5
+分钟测试全核满 3.9GHz 温度维持在 65 度左右。即使盖上侧板，温度提升 5 度左右，跟默认状态下的满载温度对比，也简直是一个冰箱一个火炉。降电压真是一个好东西啊。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705053.jpg" />定频 3.9GHz 测试
+<p>鉴于目前是夏天环境，最终在 BIOS 里设置了使用定频 3.9GHz 那套参数，保证了一定性能的同时，风扇转速不高比较安静，温度也好看些。后面有 CPU 相关的测试都是在这套参数下进行的。</p>
+<h3>其它测试</h3>
+<p>硬盘部分就看看温度和硬盘信息状态就够了，跑分看看就好，因为觉得光看数据还是没实际体验来得有感觉。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705054.jpg" />西数 SN750 固态状态
+<p>旧机器拆下来的 275G 英睿达 MX300 固态还算健康，原来当系统盘，现在当热数据盘继续用。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705055.jpg" />英睿达 MX300 固态状态
+<p>2T 的东芝机械盘做低需求冷存储足够了。5 小时慢扫全绿，110MB/s 平均读取，没什么问题。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705056.jpg" />东芝 2T 机械盘状态
+<p>7-Zip 压缩/解压缩测试结果如下，7-Zip 软件版本为 19.00，总分 46982MIPS，压缩速度为
+31917 KB/s，解压缩速度为 646511 KB/s。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705059.jpg" />7-Zip Benchmark
+<p>CPU 软件渲染方面，选取了 CineBench R20 进行测试。直接在 Microsoft 商店里下载即可，非常方便。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705060.jpg" />CineBench R20
+<img src="https://www.h404bi.com/uploads/2019/07/20190705061.jpg" />CineBench 多核心
+<p>多核在定频之前有测过一次，当时 3.71GHz 得到结果为 2656 pts。定频到 3.9GHz 后多核测试结果为 2799 pts。定频降压后，有性能提升的同时，电压温度降低了，是比较满意的。但跟网络上其他人给出的测试结果，似乎还差一点。单核测试结果为 396 pts。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705062.jpg" />CineBench 单核心
+<p>整机游戏性能测试方面，在 Steam 上购买下载了 3DMark ，运行 Time Spy 进行 DX12 基准测试，结果如下。其中 3.9GHz 下 CPU 分数为 6261，与网络上 4GHz 的分数相近，基本相符。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705064.jpg" /><a href="https://www.3dmark.com/3dm/37403790?" target="_blank">3DMark Time Spy</a>
+<p>实际的游戏测试还没有抽时间完成，待更新补充。最后附上娱乐大师跑分对比。前者是旧平台，后者是新平台。</p>
+<img src="https://www.h404bi.com/uploads/2019/07/20190705057.jpg" />鲁大师娱乐跑分
+<img src="https://www.h404bi.com/uploads/2019/07/20190705058.jpg" />
+<p><strong>完。</strong></p>
+]]></content>
+        
+        <summary type="html">
+            
+            头图：U1-PLUS 与 MacBook Pro 13&#39; 哈哈哈，这次文章的标题有点假文艺。不过确实说的也是事实，在完成了这次整个平台的装机升级后，陪伴了我 5 年多的至强 E3-1230 v2 就被替下了，为性价比正式从牙膏厂跳到了按摩店。大学那年第一次 DIY 装机就选择了
+            
+        </summary>
+        
+    </entry>
+    
+    <entry>
+        <title>小米手环 4 NFC 模拟加密卡探索</title>
+        <link href="https://diygod.me/pn532/"/>
+        <id>https://diygod.me/pn532/</id>
+        
+        <author>
+            <name>DIYgod</name>
+        </author>
+        
+        <published>2019-07-02T07:22:14+00:00</published>
+        <updated>2019-07-02T07:22:14+00:00</updated>
+        
+        <content type="html"><![CDATA[<p>小米手环 4 NFC 版一发售就迫不及待找黄牛买了一只</p><p>手环的 NFC 主要有三个功能：小爱同学、公交卡、模拟门禁卡</p><p>结果手环的小爱同学很难用，功能缺失、反应慢<a href="https://twitter.com/DIYgod/status/1141718298658086913" target="_blank">还老骂我</a>，上海公交也不支持，门禁卡顿时成为了全村人的希望，正好我有两个门禁卡，试着模拟一下吧</p><p><img src="https://diygod.me/images/pn5321.jpg" /></p><p>这 NFC 一事无成，像极了人生</p><a></a><p>第一张是 ID 卡，铁定没救了，希望全在第二张加密 IC 卡上，为了拯救鸡肋的 NFC，我到淘宝买了一个 NFC 读写器 PN532</p><p>把加密卡放到 PN532 上读取数据</p><p><img src="https://diygod.me/images/pn5322.jpg" /></p><p>使用 MifareOne Tool 解卡</p><p><img src="https://diygod.me/images/pn5323.png" /></p><p>解卡失败…根据网上的说法可能是 PN532 过热导致的，那么哪里最凉快呢？</p><p>冰箱</p><p><img src="https://diygod.me/images/pn5324.jpg" /></p><p>经过漫长的等待，成功了</p><p><img src="https://diygod.me/images/pn5325.png" /></p><p>得到加密卡数据</p><p><img src="https://diygod.me/images/pn5326.png" /></p><p>然后把其中的 0 扇区 0 区块数据写入一张空白卡</p><p><img src="https://diygod.me/images/pn5327.jpg" /></p><p><img src="https://diygod.me/images/pn5328.png" /></p><p>然后再把空白卡的数据写入手环</p><p><img src="https://diygod.me/images/pn5329.jpg" /></p><p><img src="https://diygod.me/images/pn53210.jpg" /></p><p>这时候手环上就有卡了，但是里面只有 0 扇区 0 区块数据，这时候再把剩下的数据写到手环里就好了</p><p><img src="https://diygod.me/images/pn53211.jpg" /></p><p><img src="https://diygod.me/images/pn53212.png" /></p><p>验证：对比原卡和手环卡的数据，</p><p><img src="https://diygod.me/images/pn53213.png" /><br /><img src="https://diygod.me/images/pn53214.png" /></p><p>只有 0 扇区 0 区块的部分数据（厂商号）不同，且 15 扇区的加密数据相同，说明已经模拟成功</p><p>NFC 终于没白买</p>]]></content>
+        
+        <summary type="html">
+            
+            小米手环 4 NFC 版一发售就迫不及待找黄牛买了一只手环的 NFC 主要有三个功能：小爱同学、公交卡、模拟门禁卡结果手环的小爱同学很难用，功能缺失、反应慢还老骂我，上海公交也不支持，门禁卡顿时成为了全村人的希望，正好我有两个门禁卡，试着模拟一下吧这 NFC 一事无成，像极了人
+            
+        </summary>
+        
+        <category term="分享境"/>
+        
+    </entry>
+    
+    <entry>
+        <title>《青春猪头少年不会梦到兔女郎学姐》圣地巡礼</title>
+        <link href="https://diygod.me/mai-tour/"/>
+        <id>https://diygod.me/mai-tour/</id>
+        
+        <author>
+            <name>DIYgod</name>
+        </author>
+        
+        <published>2019-07-02T07:22:14+00:00</published>
+        <updated>2019-07-02T07:22:14+00:00</updated>
+        
+        <content type="html"><![CDATA[<div></div><p>之前去日本玩了几天，最后一天没什么事了，初雪说我们去看兔女郎吧</p><p>4月7日，清晨 11 点半，我们便早早地起床坐上了前往湘南的 JR，开始了这次《青春猪头少年不会梦到兔女郎学姐》 江之岛 ~ 镰仓高校前 ~ 七里滨 ~ 藤泽车站 的圣地巡礼之旅</p><p><img src="https://diygod.me/images/mai-tour0.jpg" /></p><a></a><h2><a href="https://diygod.me/mai-tour/#江之岛"></a>江之岛</h2><p>我们从新宿坐 JR 一路南下到了江之岛，还是挺远的，全程花了一个多小时，还好我们起得早，下午 1 点就到了</p><p>除了兔女郎学姐之外，江之岛也是诸多动画与日剧的取景圣地，以至于江之岛观光案内所专门有一本动漫巡礼地图</p><p><img src="https://diygod.me/images/mai-tour1.jpg" /></p><p>上岛之后第一件事就是找麻衣代言的限定桃子味汽水</p><p>找了好几台自动售卖机才找到，超级开心，没错了，是学姐的味道！</p><p><img src="https://diygod.me/images/mai-tour2.jpg" /></p><p>我可以一口气喝 10 瓶</p><p>继续往前走，可以经过江之岛上的诸多神社，动画第 6 话中师傅与学妹参拜的是主干道上的江岛神社</p><p><img src="https://diygod.me/images/mai-tour3.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251081?t=14m36s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour4.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251081?t=14m51s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour5.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251081?t=15m28s" target="_blank">视频直达</a></p><p>第 6 话剧情高潮的展望台</p><p><img src="https://diygod.me/images/mai-tour6.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251081?t=16m42s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour7.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251081?t=15m47s" target="_blank">视频直达</a></p><p>然后<del>坐电梯</del>爬到山顶可以登上一个高塔，塔上可以看到很远</p><p><img src="https://diygod.me/images/mai-tour8.jpg" /></p><p>江之岛游览完毕后，原路从大桥返回地铁站，会经过一段地下通道</p><p><img src="https://diygod.me/images/mai-tour9.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251081?t=14m02s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour10.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251081?t=14m07s" target="_blank">视频直达</a></p><h2><a href="https://diygod.me/mai-tour/#镰仓高校前"></a>镰仓高校前</h2><p>现在回到江之岛站，坐江之岛电铁线到下一站 —— 镰仓高校前站</p><p>江之电是很特别的绿皮火车，一路上的风景特别好，街道、海岸</p><p>镰仓高校前站下车，沿着铁路线向腰越方向步行，一分钟便可到达 OP 中最先登场的踢你的肾场景</p><p>这里为了拍到场景中一样的火车在路边站了好久，拍完之后惊喜地发现连左边的汽车都惊人的相似</p><p><img src="https://diygod.me/images/mai-tour11.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251076?t=58s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour12.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251076?t=1m52s" target="_blank">视频直达</a></p><p>接着返回镰仓高校前站内，这里是动画第 9 话中，小姨子代替麻衣参加 CM 的摄影拍摄地</p><p><img src="https://diygod.me/images/mai-tour13.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251084?t=18m18s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour14.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251084?t=18m11s" target="_blank">视频直达</a></p><p>在镰仓高校前站向七里滨站方向走一分钟，发现这里有很多小姐姐在拍照，这里正是著名的《灌篮高手》取景地，樱木花道与赤木晴子相遇的铁道口</p><p><img src="https://diygod.me/images/mai-tour15.jpg" /></p><p>铁道口对面就是七里滨海滩，站在沙滩上可以看见不远处的江之岛，动画中在沙滩上的诸多场景，皆是取景于此，但是没时间去了</p><h2><a href="https://diygod.me/mai-tour/#七里滨"></a>七里滨</h2><p>接着坐江之岛电铁线到下一站，便可以来到动画中出现次数最多的车站 —— 七里滨站</p><p>动画中对于七里滨车站超级还原，无论是出入口还是站台内的自动贩卖机，给我一种转头就可以看到麻衣学姐的错觉</p><p><img src="https://diygod.me/images/mai-tour16.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251076?t=9m6s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour17.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251076?t=8m33s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour18.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251076?t=8m31s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour19.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251076?t=9m33s" target="_blank">视频直达</a></p><p><img src="https://diygod.me/images/mai-tour20.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251080?t=20m5s" target="_blank">视频直达</a></p><p>后面还有师傅与学姐上学的峰原高中、ED 中的海岸公园、初次相遇兔女郎的藤泽市综合市民图书馆、和学妹互踢屁股的御所谷公园、师傅打工的餐厅 等众多打卡点，但看时间快要误机了，此次巡礼之旅就到此为止</p><h2><a href="https://diygod.me/mai-tour/#藤泽车站"></a>藤泽车站</h2><p>回东京的时候路过了藤泽车站，师傅上学就是从这里出发，乘坐江之岛电铁线到七里滨站</p><p>藤泽车站及其附近还有很多场景，但这时候快误机了，紧张的一批，没时间仔细看了，只随便拍了一张</p><p>师傅跟学姐第一次约会迟到的改札口</p><p><img src="https://diygod.me/images/mai-tour21.jpg" /></p><p><a href="https://www.bilibili.com/bangumi/play/ep251076?t=12m29s" target="_blank">视频直达</a></p><p>回到东京站拿到行李后向成田机场一路狂奔</p><p>在成田特快 Express 上面姬合照</p><p><img src="https://diygod.me/images/mai-tour22.jpg" /></p><p>赶到机场登机口时候已经开始登机了，还好赶上了，不然再晚 10 分钟只能去初雪家睡了</p><p> </p><p>下集预告：我们在日本一共玩了 9 天，本文是最后一天的内容，过一两周会剪一个 9 天的 vlog 出来，9 倍的快乐，记得看哟</p><p> </p><p>巡礼参考攻略：</p><p><a href="https://itunes.apple.com/jp/app/%E8%88%9E%E5%8F%B0%E3%82%81%E3%81%90%E3%82%8A-%E3%82%A2%E3%83%8B%E3%83%A1%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC-%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%84%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%A2%E3%83%97%E3%83%AA/id680489568" target="_blank">‎「舞台めぐり - アニメ聖地巡礼・コンテンツツーリズムアプリ」をApp Storeで</a></p><p><a href="https://zhuanlan.zhihu.com/p/52373529" target="_blank">《青春猪头少年不会梦到兔女郎学姐》圣地巡礼攻略（详） - 知乎</a></p><p><a href="https://bbs.qyer.com/thread-3102232-1.html" target="_blank">《青春期笨蛋不会做兔女郎学姐的梦》动画【圣地巡礼】 - 穷游网</a></p>]]></content>
+        
+        <summary type="html">
+            
+            之前去日本玩了几天，最后一天没什么事了，初雪说我们去看兔女郎吧4月7日，清晨 11 点半，我们便早早地起床坐上了前往湘南的 JR，开始了这次《青春猪头少年不会梦到兔女郎学姐》 江之岛 ~ 镰仓高校前 ~ 七里滨 ~ 藤泽车站 的圣地巡礼之旅江之岛我们从新宿坐 JR 一路南下到了
+            
+        </summary>
+        
+        <category term="日记本"/>
+        
+    </entry>
+    
+    <entry>
+        <title>HeadlessChrome 自动化测试探索</title>
+        <link href="https://diygod.me/headlesschrome/"/>
+        <id>https://diygod.me/headlesschrome/</id>
+        
+        <author>
+            <name>DIYgod</name>
+        </author>
+        
+        <published>2019-07-02T07:22:14+00:00</published>
+        <updated>2019-07-02T07:22:14+00:00</updated>
+        
+        <content type="html"><![CDATA[<p>埋点一直是B站 HTML5 播放器开发和测试过程中的一个痛点，埋点的种类和接口参数很多，测试很麻烦也很容易出错</p><p>虽然测试很麻烦，但它们的规则都很简单，比如点击或 hover 一个按钮、错误上报、播放和性能上报，那么能不能通过自动化的 E2E 测试来代替这些又繁琐又机械化又容易出错的测试工作呢？</p><p>在一次埋点线上事故后，我花了一天时间做了一些探索，最后效果还不错，在这里做一下简单的总结</p><a></a><h2><a href="https://diygod.me/headlesschrome/#编写测试脚本"></a>编写测试脚本</h2><p>模拟用户操作就需要用到无头浏览器，我采用了 Jest + Puppeteer 的组合</p><p>Jest 是一个测试框架，Puppeteer 是用来控制 Chrome 或 Chromium</p><p>选择 Jest 是因为我对 Jest 最熟悉，然后又找到了一个 preset: <a href="https://github.com/smooth-code/jest-puppeteer" target="_blank">jest-puppeteer</a>，不是必需的，但它可以简化很多 Puppeteer 操作</p><p>安装依赖：</p><table><tr><td><pre><span>1</span><br /></pre></td><td><pre><span>npm install --save-dev jest jest-puppeteer puppeteer</span><br /></pre></td></tr></table><p>测试脚本很简单：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /><span>5</span><br /><span>6</span><br /><span>7</span><br /><span>8</span><br /><span>9</span><br /><span>10</span><br /><span>11</span><br /><span>12</span><br /><span>13</span><br /><span>14</span><br /></pre></td><td><pre><span>describe(<span>'log'</span>, () =&gt; {</span><br /><span>    beforeAll(<span>async</span> () =&gt; {</span><br /><span>        page.goto(<span>'https://www.bilibili.com/video/av44890855'</span>);</span><br /><span>    });</span><br /><span></span><br /><span>    it(<span>'play_screen'</span>, <span>async</span> (done) =&gt; {</span><br /><span>        page.on(<span>'request'</span>, (request) =&gt; {</span><br /><span>            <span>if</span> (request.url().match(<span>/^https:\/\/data\.bilibili\.com\/log\/web\?play_screen...参数参数/</span>)) {</span><br /><span>                done();</span><br /><span>            }</span><br /><span>        });</span><br /><span>        page.click(<span>'video'</span>);</span><br /><span>    });</span><br /><span>});</span><br /></pre></td></tr></table><p>让 HeadlessChrome 打开一个播放页，监控页面请求的接口，模拟点击 video 元素，监控到浏览器请求了 play_screen 埋点即测试成功</p><p>看起来没什么问题，开开心心地执行了测试，结果 failed</p><p>发生了什么？配置 <code>headless: false</code> 观看了一下测试过程</p><p><img src="https://diygod.me/images/headlesschrome1.jpg" /></p><p>发现是因为检测到浏览器不支持 HTML5 播放器，加载了 Flash 播放器</p><p>Puppeteer <a href="https://github.com/GoogleChrome/puppeteer#q-what-features-does-puppeteer-not-support" target="_blank">文档里说道</a></p><blockquote><p>Puppeteer is bundled with Chromium–not Chrome…Puppeteer does not support licensed formats such as AAC or H.264</p></blockquote><p>解决方法也很简单，把 Puppeteer 自带的 Chromium 换成本地的 Chrome</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /></pre></td><td><pre><span>launch: {</span><br /><span>    executablePath: <span>'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'</span></span><br /><span>}</span><br /></pre></td></tr></table><p>测试通过</p><p><img src="https://diygod.me/images/headlesschrome2.jpg" /></p><h2><a href="https://diygod.me/headlesschrome/#Chrome-as-a-service"></a>Chrome as a service</h2><p>刚才使用了本地的 Chrome，会依赖本地环境，而且想作为自动化测试跑在测试机上也是不行的</p><p>所以我又在测试机上跑了一个 docker 容器：<a href="https://hub.docker.com/r/browserless/chrome" target="_blank">browserless/chrome</a>，它可以把 Chrome 当做一个 service，测试脚本使用 websocket 协议操作 docker 里的 Chrome，这样就避免了依赖本地 Chrome</p><p>启动容器：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /></pre></td><td><pre><span>docker pull browserless/chrome:release-chrome-stable</span><br /><span>docker run -d -p 3000:3000 browserless/chrome:release-chrome-stable</span><br /></pre></td></tr></table><p>使用：</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /></pre></td><td><pre><span>connect: {</span><br /><span>    browserWSEndpoint: <span>'ws://localhost:3000'</span></span><br /><span>}</span><br /></pre></td></tr></table><h2><a href="https://diygod.me/headlesschrome/#劫持-js"></a>劫持 js</h2><p>这样用的是线上版本，根本没有测试本地代码啊！</p><p>哦，忘了说了，还需要把线上 js 劫持为本地版本</p><table><tr><td><pre><span>1</span><br /><span>2</span><br /><span>3</span><br /><span>4</span><br /><span>5</span><br /><span>6</span><br /><span>7</span><br /><span>8</span><br /><span>9</span><br /><span>10</span><br /><span>11</span><br /><span>12</span><br /><span>13</span><br /><span>14</span><br /></pre></td><td><pre><span><span>await</span> page.setRequestInterception(<span>true</span>);</span><br /><span></span><br /><span>page.goto(<span>'https://www.bilibili.com/video/av44890855'</span>);</span><br /><span>page.on(<span>'request'</span>, (request) =&gt; {</span><br /><span>    <span>if</span> (request.url().match(<span>/player\.js/</span>)) {</span><br /><span>        request.respond({</span><br /><span>            status: <span>200</span>,</span><br /><span>            contentType: <span>'application/javascript'</span>,</span><br /><span>            body: fs.readFileSync(<span>'dist/release/player.js'</span>).toString()</span><br /><span>        });</span><br /><span>    } <span>else</span> {</span><br /><span>        request.continue();</span><br /><span>    }</span><br /><span>});</span><br /></pre></td></tr></table>]]></content>
+        
+        <summary type="html">
+            
+            埋点一直是B站 HTML5 播放器开发和测试过程中的一个痛点，埋点的种类和接口参数很多，测试很麻烦也很容易出错虽然测试很麻烦，但它们的规则都很简单，比如点击或 hover 一个按钮、错误上报、播放和性能上报，那么能不能通过自动化的 E2E 测试来代替这些又繁琐又机械化又容易出错
+            
+        </summary>
+        
+        <category term="创作集"/>
+        
+    </entry>
+    
+    <entry>
+        <title>2018 年终总结</title>
+        <link href="https://diygod.me/2018/"/>
+        <id>https://diygod.me/2018/</id>
+        
+        <author>
+            <name>DIYgod</name>
+        </author>
+        
+        <published>2019-07-02T07:22:14+00:00</published>
+        <updated>2019-07-02T07:22:14+00:00</updated>
+        
+        <content type="html"><![CDATA[<p>2018，无所事事又带点丧的一年，感觉很对不起 23 岁这个年纪，要跟自己说声对不起了<a></a></p><h2><a href="https://diygod.me/2018/#开源"></a>开源</h2><p>今年 4 月开坑了 <a href="https://github.com/DIYgod/RSSHub" target="_blank">RSSHub</a>，让自己学到了的很多东西，认识了很多人，算是今年为数不多的有趣的事情之一了</p><p><a href="https://github.com/MoePlayer/APlayer" target="_blank">APlayer</a> 和 <a href="https://github.com/MoePlayer/DPlayer" target="_blank">DPlayer</a> 有半年时间在咕咕咕</p><p>2019 期望再开一个 LTS 一年以上的坑，暂时还没什么想法 🤯</p><p><img src="https://diygod.me/images/2018-2.jpg" /></p><p><img src="https://diygod.me/images/2018-1.jpg" /></p><h2><a href="https://diygod.me/2018/#足迹"></a>足迹</h2><p>参展：</p><p><a href="https://diygod.me/2018-bao-zou-yu-ren-jie/">暴走 yu 人节</a><br /><a href="https://diygod.me/bw2018/">bw &amp; bml</a><br /><a href="https://diygod.me/cj2018/">ChinaJoy</a><br />CP22<br /><a href="https://diygod.me/cp2018sp/">CP2018SP</a><br />Google 开发者大会<br />CP23</p><p>旅游：</p><p>无</p><p>漫展都快去烦了，却没意识到今年一次都没出去旅游，2019 要好好制定一下出行计划了，想 3 月底去日本看樱花 🌸，想去成都找阿猫和七夏姐姐吃火锅，想去深圳找汤圆逛下腾讯，然后去澳门塔蹦极</p><p><img src="https://diygod.me/images/2018-3.jpg" /></p><h2><a href="https://diygod.me/2018/#技能"></a>技能</h2><p>🎨 画画：<a href="https://twitter.com/DIYgod/status/1005134065412943872" target="_blank">一</a> <a href="https://twitter.com/DIYgod/status/1006221633470660608" target="_blank">二</a> <a href="https://twitter.com/DIYgod/status/1011283860930215941" target="_blank">三</a>，重拾了小学放下的画笔（<del>iPad Pencil</del>），画画真好玩，可惜 darling 烂尾之后很生气，没什么想画的了，就没能坚持下来，2019 再给我一个画画的动力吧</p><p>🤸‍♀️ HIPHOP 街舞：运动强度极大，上完体验课浑身疼了好几天，但是很酷，报了 10 节私教课和 9 节大课，还没开始正式上课，2019 应该可以坚持下来，毕竟挺贵的，这几节课就花了 8000 块左右（两个人）</p><p>🎬 vlog：<a href="https://diygod.me/bw2018/">一</a> <a href="https://diygod.me/cj2018/">二</a> <a href="https://diygod.me/cp2018sp/">三</a>，买了 Osmo Mobile 2，漫展拍了几次，已经失去兴趣了</p><p>🍛 做饭：在室友的指导下做了一盘<a href="https://twitter.com/DIYgod/status/1044928336802136064" target="_blank">小炒肉</a>，比想象中简单嘛</p><p>🎃 做南瓜灯：<a href="https://twitter.com/DIYgod/status/1057545543252041728" target="_blank">一</a> <a href="https://twitter.com/DIYgod/status/1057614657169514496" target="_blank">二</a>，放进灯的一瞬间惊喜地跳了起来，很有成就感，最后一直放烂了才舍得扔</p><h2><a href="https://diygod.me/2018/#健康"></a>健康</h2><p>12 月才开始健身，一天 keep 一天跑步，结果强度设置太大，喜闻乐见地伤到了，休息一周半了，没意外的话下周会恢复</p><p>体重没减下来，但也没增加</p><p>早睡：大失败</p><p>2019 想把头发染成橘黄色 👩‍🦰</p><p><img src="https://diygod.me/images/2018-4.jpg" /></p><h2><a href="https://diygod.me/2018/#游戏"></a>游戏</h2><p>守望先锋练成了一手无敌强的法鸡，但在七夏姐姐不玩了之后也好几个月没玩过了</p><p>买了 PS4，肝了 60 多个小时后通关（出新手村）了怪物猎人世界，结尾的 BGM 真好听，通关后又被双爆鳞龙和炎妃龙打自闭了 🤐</p><p>堡垒之夜、分手厨房 2、王者荣耀、大表哥 2、跳楼少女、太鼓达人也稍微玩了一下下</p><p><img src="https://diygod.me/images/2018-5.jpg" /></p><h2><a href="https://diygod.me/2018/#影视"></a>影视</h2><p>话剧：</p><p>《乌龙山伯爵》：最佳<br />《李茶的姑妈》<br />《皇帝的新娘》</p><p>电视剧：</p><p>《我是大哥大》：最佳<br />《保镖》<br />《迷雾》<br />《逃避虽可耻但有用》<br />《黑镜》<br />《这份恋情有罪吗！？》<br />《无法成为野兽的我们》<br />《西部世界》<br />《魔法觉醒》<br />《人类清除计划》</p><p>番剧：</p><p>《DARLING in the FRANXX》：最佳（勉强）<br />《齐木楠雄的灾难 第二季》<br />《青春猪头少年不会梦到兔女郎学姐》<br />《千绪的上学路》<br />《citrus～柑橘味香气～》<br />《工作细胞》<br />《路人女主的养成方法》<br />《NO GAME NO LIFE》<br />《我家女仆有够烦！》<br />《進擊的巨人 第三季》<br />《凸变英雄》<br />《JOJO的奇妙冒险 黄金之风》<br />《OVERLORD》<br />《博多豚骨拉面团》<br />《pop子和pipi美的日常》<br />《刻刻》</p><p>电影：</p><p>太多了，略过</p><p>一共 3 部话剧，10 部电视剧，16 部番剧，超出预期 🙋‍♀️</p><p>有很多想读的书一本都没读，2019 期望可以多读一些书</p><p><img src="https://diygod.me/images/2018-6.jpg" /></p><h2><a href="https://diygod.me/2018/#情感"></a>情感</h2><p>跟酸奶的感情依然很好，她现在就在我旁边睡觉 🐱</p><p>跟发小的地理距离变近了，但是…事情变得怪怪的，希望只是暂时的</p><p>还有很多想说的，不能写出来</p><h2><a href="https://diygod.me/2018/#最后"></a>最后</h2><p>去年 ch 在她 23 岁的年终总结里写到</p><blockquote><p>现在的年纪</p><p>已经是不能再马马虎虎生活工作的年纪了</p><p>再也不是心情一好起来 什么都会好起来的年纪</p></blockquote><p>上次看到还不以为意，现在感觉真是一针见血</p><p>2019 希望可以活得更认真一点，尽量让自己变得充实有趣起来，但说实话我也没什么信心</p>]]></content>
+        
+        <summary type="html">
+            
+            2018，无所事事又带点丧的一年，感觉很对不起 23 岁这个年纪，要跟自己说声对不起了开源今年 4 月开坑了 RSSHub，让自己学到了的很多东西，认识了很多人，算是今年为数不多的有趣的事情之一了APlayer 和 DPlayer 有半年时间在咕咕咕2019 期望再开一个 LT
+            
+        </summary>
+        
+        <category term="日记本"/>
+        
+    </entry>
+    
+    <entry>
+        <title>从零开始的 NAS 生活</title>
+        <link href="https://diygod.me/nas/"/>
+        <id>https://diygod.me/nas/</id>
+        
+        <author>
+            <name>DIYgod</name>
+        </author>
+        
+        <published>2019-07-02T07:22:14+00:00</published>
+        <updated>2019-07-02T07:22:14+00:00</updated>
+        
+        <content type="html"><![CDATA[<p>很早就想组一个家庭 NAS 设备，趁着这次双十一，在京东买了一台群晖 DS218play 和一块酷狼 4T 硬盘，已经用了两天了，我的感受是：</p><p><strong>爽爆</strong><a></a></p><h2><a href="https://diygod.me/nas/#使用"></a>使用</h2><p>目前常用的有下面几个功能</p><h3><a href="https://diygod.me/nas/#Time-Machine"></a>Time Machine</h3><p><img src="https://diygod.me/images/nas1.jpg" /></p><p>之前用 Time Machine 做备份要一直连着移动硬盘，很麻烦而且容易忘记，经常是 Mac 提醒我已经 10 多天没备份了才想起来插上移动硬盘备份一下，有 NAS 之后可以实现无线和远程备份，在任何地方都可以让 Mac 每小时自动备份到家里的 NAS 里</p><h3><a href="https://diygod.me/nas/#BT-下载"></a>BT 下载</h3><p><img src="https://diygod.me/images/nas2.jpg" /></p><p>使用 RSS 订阅喜欢的番剧或美剧，有更新可以自动下载，或者在公司<del>摸鱼</del>的时候看到一部喜欢的电影，可以远程登录到家里的群晖，添加 BT 任务，晚上回家就可以直接看了</p><h3><a href="https://diygod.me/nas/#存储"></a>存储</h3><p>这是 NAS 最基础的功能了，它最大的好处是可以快速在不同设备间共享</p><p>比如我在电脑上把樱岛麻衣的照片存到 NAS 里，打开手机可以随时看</p><p><img src="https://diygod.me/images/nas3.jpg" /></p><p>再比如我下载了一部日剧，根据我心情的不同，我有可能想坐在桌子前用电脑看，也有可能想躺在床上用 iPad 看</p><p><img src="https://diygod.me/images/nas4.png" /></p><p>而在有 NAS 之前，我必须把 iPad 用数据线连到电脑上，打开难用的要死的 iTunes，然后把视频拷贝到 iPad 里才能看</p><h2><a href="https://diygod.me/nas/#部署"></a>部署</h2><p>群晖有一个叫 QuickConnect 的东西，可以分配一个群晖的域名，可以直接用它在公网远程连接</p><p>但我想绑定自己的域名，还是折腾了一下，没想到那么麻烦</p><h3><a href="https://diygod.me/nas/#端口转发"></a>端口转发</h3><p>为了将外网对应到内网的 NAS 上</p><p>家里的电信宽带已经有了公网 IP，设置下端口转发就行了，以为很简单，没想到是个大坑</p><p><img src="https://diygod.me/images/nas5.jpg" /></p><p>用路由器的 DMZ 功能设置好转发之后，发现没效果，访问公网 IP 返回的是光猫的登录界面，才知道光猫和路由器不是桥接，还需要在光猫上设置转发，尝试了下发现我没有光猫的超级管理员账号，没有权限设置</p><p>Google 上查到了几种电信光猫的破解方法，试了都无效，凌晨4点多给电信客服打电话，居然有人接…约了早上电信师傅上门处理</p><p>早上电信师傅过来给了超级管理员账号</p><p>超级管理员账号进了光猫后台，把光猫和路由器设置成桥接后端口转发正常了</p><h3><a href="https://diygod.me/nas/#DDNS"></a>DDNS</h3><p>为了将动态的公网 IP 映射到我的域名上</p><p><img src="https://diygod.me/images/nas6.jpg" /></p><p><img src="https://diygod.me/images/nas7.jpg" /></p><p>群晖和路由器都带了 DDNS 功能，却发现都不支持 CloudXNS…只能自己动手了</p><p>惊喜地发现了这个东西：<a href="https://github.com/lixuy/CloudXNS-DDNS-with-BashShell" target="_blank">https://github.com/lixuy/CloudXNS-DDNS-with-BashShell</a></p><p><img src="https://diygod.me/images/nas8.jpg" /></p><p>利用群晖的任务计划功能 10 分钟跑一下这个脚本，实现了 CloudXNS 的 DDNS</p><h3><a href="https://diygod.me/nas/#SSL-证书"></a>SSL 证书</h3><p><img src="https://diygod.me/images/nas9.jpg" /></p><p>群晖自带了自动从 Let’s Encrypt 获取证书的功能，真香</p><p>却发现群晖用的验证方式必须用 80 端口，国内根本不能用，真臭</p><p><img src="https://diygod.me/images/nas10.jpg" /></p><p>也找到了解决方案：<a href="http://www.up4dev.com/2018/05/29/synology-ssl-wildcard-cert-update/" target="_blank">http://www.up4dev.com/2018/05/29/synology-ssl-wildcard-cert-update/</a></p><p>同样是利用群晖的任务计划功能一个月跑一下这个脚本，解决了 SSL 证书和自动续签</p><p><img src="https://diygod.me/images/nas11.jpg" /></p><p>最后实现了通过自己的域名 <a href="https://nas.diygod.me:2222" target="_blank">https://nas.diygod.me:2222</a> 远程访问 NAS，细心的小可爱刚才已经在文章第一张图里看到了这个域名</p>]]></content>
+        
+        <summary type="html">
+            
+            很早就想组一个家庭 NAS 设备，趁着这次双十一，在京东买了一台群晖 DS218play 和一块酷狼 4T 硬盘，已经用了两天了，我的感受是：爽爆使用目前常用的有下面几个功能Time Machine之前用 Time Machine 做备份要一直连着移动硬盘，很麻烦而且容易忘记，
+            
+        </summary>
+        
+        <category term="分享境"/>
+        
+    </entry>
+    
+    <entry>
+        <title>C94 &amp; CP2018SP 参展日记</title>
+        <link href="https://diygod.me/cp2018sp/"/>
+        <id>https://diygod.me/cp2018sp/</id>
+        
+        <author>
+            <name>DIYgod</name>
+        </author>
+        
+        <published>2019-07-02T07:22:14+00:00</published>
+        <updated>2019-07-02T07:22:14+00:00</updated>
+        
+        <content type="html"><![CDATA[<p>C94 和 CP2018SP 不是同一天，但都是同人展，时间又很近，就写在一起了</p><h2><a href="https://diygod.me/cp2018sp/#C94"></a>C94</h2><p>Comic Market，全球最大的同人展，8 月 10 日在东京举办，我当然没钱去，三天都在 Twitter 云参展，口水流了一地</p><p>托朋友到 Aniplex 展台买了矢吹健太朗的 darling 本子，毕竟官方画师质量超级棒，舔爆！</p><p>如果再给我一次机会，我应该会买三本，一本自舔一本收藏一本传教</p><a></a><div></div><p> </p><h2><a href="https://diygod.me/cp2018sp/#CP2018SP"></a>CP2018SP</h2><p>出发前发现云台坏了，辣鸡大疆，所以这次没有 vlog 了</p><p>Comicup，8 月 25 日在上海举办，CP2018SP 规模比今年5月份的 CP22 小了很多，跟 C94 更没法比，全场两个多小时就逛完了，然后实在无聊又重头逛了一遍…</p><p>虽然规模小但还是买到了很多喜欢的本子，把遇到的 darling 都买了，舔爆！</p><p><img src="https://diygod.me/images/cp2018sp.jpg" /></p><p>对比 CP22</p><p><img src="https://diygod.me/images/cp22.jpg" /></p><p>出来之后和朋友去吃了牛肉火锅，然后看蚁人，然后又撸串，撸串这家散装的草莓啤酒超级好喝，讨厌喝酒的我都喝了一大杯，看 Freddy 开心得手舞足蹈就知道有多好喝了</p><style>#dplayer-cp2018sp .dplayer-notice{display:none}</style><div></div><p> </p>]]></content>
+        
+        <summary type="html">
+            
+            C94 和 CP2018SP 不是同一天，但都是同人展，时间又很近，就写在一起了C94Comic Market，全球最大的同人展，8 月 10 日在东京举办，我当然没钱去，三天都在 Twitter 云参展，口水流了一地托朋友到 Aniplex 展台买了矢吹健太朗的 darlin
+            
+        </summary>
+        
+        <category term="日记本"/>
+        
+    </entry>
+    
+</feed>
